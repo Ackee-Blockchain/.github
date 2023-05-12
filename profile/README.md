@@ -1,2 +1,1 @@
-# Ackee Blockchain
-Ackee Blockchain is a team of auditors and white hat hackers who perform security audits and assessments. Our mission is to contribute to a stronger blockchain ecosystem by sharing our knowledge.
+![Frame 3](https://github.com/Ackee-Blockchain/.github/assets/56036748/5048e766-40b1-4d24-9d6e-883fbfcc277e)
